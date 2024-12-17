@@ -62,7 +62,6 @@ Feel free to fork this repository and contribute! Please create an issue if you 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
 ### Directory Structure
 ```
